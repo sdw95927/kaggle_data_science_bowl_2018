@@ -8,13 +8,13 @@ Our team ranked 407 out of ~3800 teams, with final score 0.436. We first tried b
 
 ![Tryings](./assets/img2.JPG)
 
-## The repository includes:
+### The repository includes:
 
 * Basic image processing method using watershed (Visualize_data_and_basic_segmentation.ipynb)
 * Implementation of Mask-RCNN (Mask_RCNN.ipynb)
 * Source code of segmentation functions (segmentationFunctions.py)
 
-## Requirements:
+### Requirements:
 
 * Python 3
 * Common python libraries including numpy, cv2, skimage, etc.
