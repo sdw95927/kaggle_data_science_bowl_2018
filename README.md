@@ -19,3 +19,4 @@ Our team ranked 407 out of ~3800 teams, with final score 0.436. We first tried b
 * Python 3
 * Common python libraries including numpy, cv2, skimage, etc.
 * Download Mask-RCNN from https://github.com/matterport/Mask_RCNN, and add the folder to system path for Mask_RCNN
+* Download nuclei images from https://www.kaggle.com/c/data-science-bowl-2018/, and change corresponding paths in the scripts
